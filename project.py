@@ -9,7 +9,7 @@ import cv2
 import numpy as np
 
 # Set the path to the Tesseract OCR executable
-pytesseract.pytesseract.tesseract_cmd = r'C:\\Users\\Aditya\\PycharmProjects\\pythonProject2\\Tesseract\\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = 'tesseract.exe'
 
 # Function to read text from an image
 def read_text_from_image(image):
