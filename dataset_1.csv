@@ -1,0 +1,61 @@
+TEXT,Sentiment
+Your recent transaction has been flagged for security reasons. Please click on the link below to verify your account details,Fraud 
+"Your account has been compromised. To secure your funds, please update your payment information using the link provided.",Fraud 
+Unusual activity has been detected on your account. Click on the link to review your recent transactions and secure your account.,Fraud 
+Your payment account is at risk. Please verify your identity by clicking on the link below to prevent unauthorized transactions.,Fraud 
+"Your account has been locked. To unlock, click on the link and update your payment information.",Fraud 
+" To avoid account suspension, please verify your payment details by clicking on the link provided.",Fraud 
+We have detected a suspicious payment from your account. Click on the link to dispute the transaction.,Fraud 
+Your recent payment is pending verification. Please click on the link to confirm the transaction.,Fraud 
+"Your account is under review. To continue using our services, please click on the link and verify your payment information",Fraud 
+Your account requires immediate attention. Please click on the link to verify your payment details.,Fraud
+Unusual login attempts have been detected on your account. Click on the link to review your account activity and secure your account.,Fraud
+We noticed a payment attempt from an unrecognized device. Click here to review and secure your account.,Fraud
+₹100000 has been deposited into your account. Click the link to confirm this transaction and avoid account lockout.,Fraud 
+Congratulations! You've won a lottery prize of ₹XXX! Claim your winnings now by clicking the link and providing your details for processing.,Fraud
+You've been selected for an exclusive offer! Act fast to claim your reward of ₹XXX. Click the link to secure your prize before it's too late.,Fraud
+"You're a valued VIP member, and we want to reward you with a special gift. Claim your reward of ₹XXX now to enjoy exclusive benefits.",Fraud
+You've successfully referred a friend! Claim your referral bonus of ₹XXX now as a thank you for spreading the word about our services.,Fraud
+Tax refund notification! You're eligible for a refund of ₹XXX for overpaid taxes. Provide your bank details by clicking the link to claim your refund.,Fraud
+Exclusive investment opportunity! Earn high returns on your investment by participating in our lucrative scheme. Click here to get started and secure your financial future.,Fraud
+Your account information may have been compromised in a recent data breach. Take action now to secure your account and prevent further damage.,Fraud
+Urgent! Your account requires an immediate security update to safeguard against cyber threats. Click here to update your security settings.,Fraud
+You've won a prize of ₹XXX in our sweepstakes contest. Claim your prize now by providing your contact details for verification.,Fraud
+Upgrade to our premium account and receive a welcome bonus of ₹XXX. Enjoy enhanced features and benefits!,Fraud
+Earn extra cash as a mystery shopper! Sign up now and receive ₹XXX for your first assignment.,Fraud
+You've won a holiday travel voucher worth ₹XXX! Claim your voucher now and enjoy a luxurious vacation at your dream destination.,Fraud
+Complete our online survey and receive a reward of ₹XXX! Click here to participate and claim your incentive.,Fraud
+You've been awarded a scholarship of ₹XXX for your outstanding academic achievements. Click here to claim your scholarship and further your education.,Fraud
+"Don't miss out on our flash sale! Use code ""FLASHXXX"" at checkout to get ₹XXX off your purchase. Hurry, offer ends soon!",Fraud
+Complete our 30-day fitness challenge and earn a reward of ₹XXX. Click here to join the challenge and achieve your fitness goals.,Fraud
+Congratulations! You've won a digital gift card worth ₹XXX. Click here to redeem your gift card and start shopping.,Fraud
+Your recent purchase of xyz for ₹XXX has been successfully processed. Thank you for shopping with us!,Non-fraud
+Your subscription to amazon has been renewed for another month. No action is required on your part. Enjoy uninterrupted access!,Non-fraud
+"Your current account balance is ₹XXX. For detailed transaction history, log in to your online banking portal.",Non-fraud
+Your payment of ₹XXX for your electricity bill has been received and processed. Thank you for your prompt payment.,Non-fraud
+Your package with tracking number ABC123456789XYZ is out for delivery. Expect delivery by 2024-05-15.,Non-fraud
+Your refund of ₹XXX for Order #123456 has been processed. Please allow 7 days for the refund to reflect in your account.,Non-fraud
+"Your subscription to ""Fitness App"" has been successfully cancelled. You will no longer be billed for this service.",Non-fraud
+"Your payment of ₹XXX for ""Premium Membership"" has been successfully processed. Thank you for your purchase!",Non-fraud
+"A payment of ₹XXX has been authorized from your account to ""XYZ Company"". If you did not initiate this transaction, please contact customer support immediately.",Non-fraud
+Your e-wallet has been successfully topped up with ₹XXX. Use your balance to make seamless payments online.,Non-fraud
+Your loan repayment of ₹XXX for car loan has been successfully processed. Your remaining balance is now updated.,Non-fraud
+Congratulations on enrolling in online python course. Your payment of ₹XXX has been received. Access your course materials and start learning!,Non-fraud
+Thank you for registering for the charity fundraising event. Your registration fee of ₹XXX has been received. We look forward to seeing you there!,Non-fraud
+"Congratulations! Your subscription to ""Music Streaming Service"" has been upgraded to the premium tier. Enjoy ad-free listening and offline downloads.",Non-fraud
+ An invoice for services rendered has been generated for your account. You can view and download the invoice from your dashboard.,Non-fraud
+"Your purchase of the e-book ""Mindful Living"" for ₹XXX has been successfully completed. You can download your copy from your account dashboard.",Non-fraud
+Your credit card ending in XXXX has been pre-authorized for the total amount of ₹XXX for your upcoming hotel reservation at XYZ hotel.,Non-fraud
+"Your subscription to ""Online Magazine"" has been temporarily paused upon your request. No charges will be incurred during this period.",Non-fraud
+Your return request for Order #123456 has been approved. Please follow the instructions provided to initiate the return process.,Non-fraud
+Your payment of ₹XXX for your gas bill has been received. Check out our energy-saving tips to lower your future bills and conserve resources.,Non-fraud
+Thank you for your payment of ₹XXX for legal consultation services provided by Elite Legal Solutions. Here's your payment receipt for your records. We appreciate your trust in our firm.,Non-fraud
+"Your registration for the ""Annual Conference"" has been confirmed. Your payment of ₹XXX has been successfully processed.",Non-fraud
+Your credit card ending in XXXX has been pre-authorized for the total rental amount of ₹XXX for your upcoming car rental reservation.,Non-fraud
+Your salary has been adjusted to reflect the recent changes in company policy. The updated amount of ₹XXX will be reflected in your next payment.,Non-fraud
+We're pleased to inform you that you've received a performance bonus of ₹XXX. Congratulations on your hard work and dedication!,Non-fraud
+Your pay slip for April is now available. Log in to the employee portal to view and download your detailed salary statement.,Non-fraud
+We're conducting annual salary reviews. Expect a notification regarding any salary adjustments based on performance and market rates.,Non-fraud
+Your overtime hours have been approved and included in your salary payment. You'll receive an additional ₹XXX in this month's payment.,Non-fraud
+We've updated your payroll tax withholdings to comply with current regulations.,Non-fraud
+Your pension contribution of ₹XXX has been deducted from your salary this month.,Non-fraud
